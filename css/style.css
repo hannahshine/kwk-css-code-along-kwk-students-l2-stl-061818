@@ -12,4 +12,7 @@
     .example {
       background-color:yellow;
       font-size:50px;
+      cursor:pointer;
+      text-align:center;
+      
     }
